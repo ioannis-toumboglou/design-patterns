@@ -1,6 +1,7 @@
 # design-patterns
 
 A repository that contains examples of the following Design Patterns:
+
  1. Strategy Pattern
  2. Observer Pattern
  3. Decorator Pattern
@@ -13,3 +14,5 @@ A repository that contains examples of the following Design Patterns:
 10. State Pattern
 11. Proxy Pattern
 12. Compound Patterns
+
+The material is from the book Head First Design Patterns by O'Reilly.
